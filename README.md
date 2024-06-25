@@ -18,6 +18,3 @@ This repository contains the source code for a Task Management API (a To-Do List
 - **JWT**: JSON Web Tokens, used for token-based authentication.
 - **Database**: Integration with a relational database.
 - **Render**: Cloud platform for application deployment.
-
-## Spring initializr
-
