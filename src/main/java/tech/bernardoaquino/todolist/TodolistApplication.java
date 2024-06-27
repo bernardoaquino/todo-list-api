@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TodolistApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodolistApplication.class, args); // Executa um container tomcat para executar a aplicação
+		SpringApplication.run(TodolistApplication.class, args);
 	}
 
 }
